@@ -1,4 +1,5 @@
 
+
 export const store = {
     user: null, // { username, role }
     applications: [
